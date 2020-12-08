@@ -1,4 +1,11 @@
-### Hi there 👋
+### 👋 Hi there, I'm Philipp
+
+My name is Jan-Philipp Igla and I'm a Technical SEO @ Axel Springer. Mostly I am doing some cool stuff to make work life easier, gather insights from data and keep learning.
+
+### 🛠️ My personal stack
+- JavaScript
+- Python
+- Shell
 
 <!--
 **jpigla/jpigla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
