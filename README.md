@@ -1,6 +1,3 @@
-<img src="https://pbs.twimg.com/media/EqLca0OXUAAt5Uw?format=jpg&name=large" width="250">
-
-
 ### 👋 Hi there, I'm Philipp
 
 My name is Jan-Philipp Igla and I'm a Technical SEO @ Axel Springer. Mostly I am doing some cool stuff to make work life easier, gather insights from data and keep learning.
