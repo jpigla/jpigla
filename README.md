@@ -4,8 +4,8 @@ My name is Jan-Philipp Igla and I'm a Technical SEO @ Axel Springer. Mostly I am
 
 
 ### 🛠️ My personal stack
-- JavaScript
 - Python
+- JavaScript
 - Shell
 
 
